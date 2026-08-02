@@ -1,0 +1,17 @@
+body {
+    background: url("https://monsterhunterwiki.org/images/6/67/MHWilds-Rey_Dau_Concept_Art_003.webp") center center no-repeat fixed;
+    background-size: 100%;
+    object-fit: contain;
+}
+.lion-image-block[data-image-type="headshot"] {
+    width: 700px;
+    height: 500px;
+    padding-bottom: 1px;
+    border-radius: 25px;
+    content: url("https://i.ibb.co/FLJwqxhv/Screenshot-2026-07-27-at-00-07-18-The-Lion-Wardrobe-Lioden.png");
+    align-content: center;
+}
+#about > tbody:nth-child(1) > tr:nth-child(2) {
+    text-align: center;
+    display: grid;
+}
