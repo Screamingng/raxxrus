@@ -2,7 +2,7 @@
     display: none;
 }
 .table .bottom {
-    margin-bottom: 50px;
+    position: relative;
 }
 #about > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(1) {
   display: none;
@@ -22,4 +22,7 @@
 }
 #commentBox {
   margin-top: 240px;
+}
+#pageContainer > center:nth-child(5) > form:nth-child(9) {
+  height: 0px;
 }
