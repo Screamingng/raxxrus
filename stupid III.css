@@ -1,12 +1,25 @@
-.lion-image-block[data-image-type="headshot"] {
-    width: 400%;
-    height: auto;
-    padding-bottom: 1px;
-    border-radius: 25px;
-    content: url("https://i.ibb.co/FLJwqxhv/Screenshot-2026-07-27-at-00-07-18-The-Lion-Wardrobe-Lioden.png");
-    align-content: center;
+.top.center {
+    display: none;
 }
-#about > tbody:nth-child(1) > tr:nth-child(2) {
-    text-align: center;
-    display: grid;
+.table .bottom {
+    margin-bottom: 50px;
+}
+#about > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(1) {
+  display: none;
+}
+#about > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(2) {
+  bottom: 600px;
+}
+#about > tbody:nth-child(1) {
+  position: relative;
+  bottom: 00px;
+}
+#pageContainer > center:nth-child(5) > form:nth-child(8) {
+  height: 0px;
+}
+#fraOrganizationBlock {
+  padding-top: 30px;
+}
+#commentBox {
+  margin-top: 240px;
 }
