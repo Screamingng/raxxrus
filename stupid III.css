@@ -14,15 +14,15 @@
   position: relative;
   bottom: 00px;
 }
-#pageContainer > center:nth-child(5) > form:nth-child(8) {
-  height: 0px;
-}
 #fraOrganizationBlock {
   padding-top: 30px;
 }
 #commentBox {
   margin-top: 240px;
 }
-#pageContainer > center:nth-child(5) > form:nth-child(10) {
+ontainer > center:nth-child(5) {
   height: 0px;
+}
+#about > tbody > {
+    background: url("https://monsterhunterwiki.org/images/6/67/MHWilds-Rey_Dau_Concept_Art_003.webp");
 }
