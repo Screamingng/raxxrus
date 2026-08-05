@@ -26,3 +26,6 @@ ontainer > center:nth-child(5) {
 #about > tbody > {
     background: url("https://monsterhunterwiki.org/images/6/67/MHWilds-Rey_Dau_Concept_Art_003.webp");
 }
+#pageContainer > center:nth-child(5) > form:nth-child(10) {
+  height: 0px;
+}
