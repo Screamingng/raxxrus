@@ -24,11 +24,11 @@
     background: url("https://monsterhunterwiki.org/images/6/67/MHWilds-Rey_Dau_Concept_Art_003.webp");
 }
 #pageContainer > center:nth-child(5) > form:nth-child(9) {
-  height: 0px;
+  max-height: 0px;
 }
 #pageContainer > center:nth-child(5) > form:nth-child(8) {
-  height: 0px;
+  max-height: 0px;
 }
 #pageContainer > center:nth-child(5) > form:nth-child(10) {
-  height: 0px;
+  max-height: 0px;
 }
