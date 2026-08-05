@@ -29,3 +29,9 @@
 #pageContainer > center:nth-child(5) > form:nth-child(10) {
   max-height: 0px;
 }
+#about {
+    height: 380px
+}
+#player {
+    margin-bottom: 40px
+}
