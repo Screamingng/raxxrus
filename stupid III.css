@@ -43,9 +43,6 @@
     position: absolute;
     max-height: 1px
 }
-#about {
-    top:10px;
-}
 #commentBox {
   position: absolute;
   bottom: 2360px;
