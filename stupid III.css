@@ -1,13 +1,11 @@
 .top.center {
   display: none;
-  content: none;
 }
 .table .bottom {
     position: relative;
 }
 #about > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(1) {
   display: none;
-  content: none;
 }
 #about > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(2) {
   bottom: 600px;
@@ -38,10 +36,6 @@
 #comment {
         position: relative;
     top: 20px
-}
-#about {
-    position: absolute;
-    max-height: 1px
 }
 #commentBox {
   position: absolute;
