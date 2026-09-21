@@ -29,9 +29,18 @@
 #pageContainer > center:nth-child(5) > form:nth-child(10) {
   max-height: 0px;
 }
-#about {
-    height: 380px;
+#commentBox {
+    position: relative;
+    top: 20px
 }
-#player {
-    margin-bottom: 40px
+#comment {
+        position: relative;
+    top: 20px
+}
+#about {
+    position: absolute;
+    max-height: 1px
+}
+#about {
+    top:10px;
 }
