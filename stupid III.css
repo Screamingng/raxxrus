@@ -1,11 +1,13 @@
 .top.center {
-    display: none;
+  display: none;
+  content: none;
 }
 .table .bottom {
     position: relative;
 }
 #about > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(1) {
   display: none;
+  content: none;
 }
 #about > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(2) {
   bottom: 600px;
@@ -43,4 +45,9 @@
 }
 #about {
     top:10px;
+}
+#commentBox {
+  position: absolute;
+  bottom: 2360px;
+  left: 50px;
 }
