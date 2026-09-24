@@ -20,19 +20,6 @@
 #commentBox {
   margin-top: 240px;
 }
-#pageContainer > center:nth-child(5) > form:nth-child(9) {
-  max-height: 0px;
-}
-#pageContainer > center:nth-child(5) > form:nth-child(8) {
-  max-height: 0px;
-}
-#pageContainer > center:nth-child(5) > form:nth-child(10) {
-  max-height: 0px;
-}
-#commentBox {
-    position: relative;
-    top: 20px
-}
 #comment {
         position: relative;
     top: 20px
