@@ -17,15 +17,12 @@
 #fraOrganizationBlock {
   padding-top: 30px;
 }
-#commentBox {
-  margin-top: 240px;
-}
 #comment {
         position: relative;
     top: 20px
 }
 #commentBox {
-  position: absolute;
-  bottom: 2360px;
-  left: 50px;
+  position: relative;
+  top: 350px;
+  right: 50px;
 }
