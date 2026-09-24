@@ -1,14 +1,8 @@
 .top.center {
   display: none;
 }
-.table .bottom {
-    position: relative;
-}
 #about > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(1) {
   display: none;
-}
-#about > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(2) {
-  bottom: 100px;
 }
 #commentBox {
   position: relative;
