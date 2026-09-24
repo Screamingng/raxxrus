@@ -10,12 +10,12 @@
 #about > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(2) {
   bottom: 100px;
 }
-#comment {
-    position: relative;
-    top: 20px
-}
 #commentBox {
   position: relative;
   top: 350px;
   left: 40px
 }
+#commentBox {
+  left: 0px;
+}
+
