@@ -8,20 +8,14 @@
   display: none;
 }
 #about > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(2) {
-  bottom: 400px;
-}
-#about > tbody:nth-child(1) {
-  position: relative;
-  bottom: 00px;
-}
-#fraOrganizationBlock {
-  padding-top: 30px;
+  bottom: 100px;
 }
 #comment {
-        position: relative;
+    position: relative;
     top: 20px
 }
 #commentBox {
   position: relative;
   top: 350px;
+  left: 40px
 }
