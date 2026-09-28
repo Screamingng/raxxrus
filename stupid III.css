@@ -9,7 +9,7 @@
   top: 345px;
 }
 #about > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(2) {
-  bottom: 410px;
+  bottom: 350px;
 }
 div.alert {
   position: relative;
